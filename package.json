@@ -9,5 +9,11 @@
         "axios": "^1.6.4",
         "laravel-vite-plugin": "^1.0",
         "vite": "^5.0"
-    }
+    },
+    "name": "laravel-junior-job",
+    "version": "1.0.0",
+    "main": "index.js",
+    "repository": "git@github.com:krgn-space/laravel-junior-job.git",
+    "author": "Oleg Kraisvitnii <krgn.space@gmail.com>",
+    "license": "MIT"
 }

@@ -10,6 +10,6 @@ RUN apt-get update \
         php8.3-pgsql \ 
         php8.3-redis \ 
         php8.3-raphf \ 
-        php8.3-yaml \
+        php8.3-yaml \ 
     && apt-get clean \
     && rm -rf /var/lib/apt/lists/* /tmp/* /var/tmp/* /usr/share/doc/*
